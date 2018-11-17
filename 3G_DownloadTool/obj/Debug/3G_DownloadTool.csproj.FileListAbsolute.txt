@@ -1,0 +1,4 @@
+D:\test_code\C#\3G_DownloadTool\3G_DownloadTool\obj\Debug\3G_DownloadTool.csprojResolveAssemblyReference.cache
+D:\test_code\C#\3G_DownloadTool\3G_DownloadTool\obj\Debug\_3G_DownloadTool.Form1.resources
+D:\test_code\C#\3G_DownloadTool\3G_DownloadTool\obj\Debug\_3G_DownloadTool.Properties.Resources.resources
+D:\test_code\C#\3G_DownloadTool\3G_DownloadTool\obj\Debug\3G_DownloadTool.csproj.GenerateResource.Cache

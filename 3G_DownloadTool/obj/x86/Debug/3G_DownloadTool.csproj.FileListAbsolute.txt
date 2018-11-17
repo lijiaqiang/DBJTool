@@ -1,0 +1,15 @@
+D:\3G_DownloadTool\3G_DownloadTool\bin\x86\Debug\3G_DownloadTool.exe
+D:\3G_DownloadTool\3G_DownloadTool\bin\x86\Debug\3G_DownloadTool.pdb
+D:\3G_DownloadTool\3G_DownloadTool\obj\x86\Debug\_3G_DownloadTool.Form1.resources
+D:\3G_DownloadTool\3G_DownloadTool\obj\x86\Debug\_3G_DownloadTool.Properties.Resources.resources
+D:\3G_DownloadTool\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.csproj.GenerateResource.Cache
+D:\3G_DownloadTool\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.exe
+D:\3G_DownloadTool\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.pdb
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\bin\x86\Debug\3G_DownloadTool.exe
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\bin\x86\Debug\3G_DownloadTool.pdb
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\_3G_DownloadTool.CallBackMsgHandler.resources
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\_3G_DownloadTool.Form1.resources
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\_3G_DownloadTool.Properties.Resources.resources
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.csproj.GenerateResource.Cache
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.exe
+E:\生产\CH3G\3G_DownloadTool_New\3G_DownloadTool\obj\x86\Debug\3G_DownloadTool.pdb
